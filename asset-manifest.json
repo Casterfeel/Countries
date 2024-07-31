@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Casterfeel/Countries/static/css/main.bf4f5d73.css",
+    "main.js": "/Casterfeel/Countries/static/js/main.f4362a89.js",
+    "index.html": "/Casterfeel/Countries/index.html",
+    "main.bf4f5d73.css.map": "/Casterfeel/Countries/static/css/main.bf4f5d73.css.map",
+    "main.f4362a89.js.map": "/Casterfeel/Countries/static/js/main.f4362a89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf4f5d73.css",
+    "static/js/main.f4362a89.js"
+  ]
+}
